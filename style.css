@@ -1,0 +1,55 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    min-height: 400px;
+    background-image: url(http://www.textures4photoshop.com/tex/thumbs/old-rustic-scratched-wood-table-texture-thumb39.jpg);
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .calculator {
+    height: 25vh;
+    padding: 0;
+  }
+  
+  input {
+    font-weight: bold;
+    font-size: 15px;
+    margin: 0px;
+    border-radius: 5px;
+    padding: 3px;
+  }
+
+  button {
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: -50px;
+    padding: 15px;
+    font-size: 30px;
+  }
+  
+  .page-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+  
+
+  label {
+    font-size: 20px;
+  }
+
+  .gente {
+    margin-left: 30px;
+  }
